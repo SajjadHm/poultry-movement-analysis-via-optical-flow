@@ -33,7 +33,3 @@ Below is a sample frame from the final output, showing the grid overlay and calc
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the structure or add any other sections relevant to your project! You can link the provided image properly by updating the correct path when uploading to the repository.
