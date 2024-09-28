@@ -1,10 +1,6 @@
-# poultry-movement-analysis-via-optical-flow
-Poultry Movement Analysis via Optical Flow
-Here’s a draft for your README file based on your project description:
-
----
 
 # Poultry Movement Analysis via Optical Flow
+---
 
 This project analyzes the movement of poultry in a controlled environment using **optical flow** techniques. The movements are captured through CCTV cameras, and a scene is divided into grid regions for detailed analysis. The goal is to quantify the movements of poultry and detect anomalies or significant changes compared to baseline activity levels.
 
